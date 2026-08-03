@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-<loc>https://dnbtrading.com.np/</loc>
-<priority>1.0</priority>
-<changefreq>weekly</changefreq>
-</url>
-
-<url>
-<loc>https://dnbtrading.com.np/about.html</loc>
-<priority>0.9</priority>
-<changefreq>monthly</changefreq>
-</url>
-
-<url>
-<loc>https://dnbtrading.com.np/solutions.html</loc>
-<priority>0.9</priority>
-<changefreq>monthly</changefreq>
-</url>
-
-<url>
-<loc>https://dnbtrading.com.np/services.html</loc>
-<priority>0.9</priority>
-<changefreq>monthly</changefreq>
-</url>
-
-<url>
-<loc>https://dnbtrading.com.np/projects.html</loc>
-<priority>0.8</priority>
-<changefreq>monthly</changefreq>
-</url>
-
-<url>
-<loc>https://dnbtrading.com.np/contact.html</loc>
-<priority>0.8</priority>
-<changefreq>yearly</changefreq>
-</url>
-
+    <url>
+        <loc>https://dnbtrading.com.np/</loc>
+        <lastmod>2026-08-03T13:08:59+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0000</priority>
+    </url>
 </urlset>
